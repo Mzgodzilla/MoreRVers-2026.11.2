@@ -1,0 +1,14 @@
+{
+  "name": "MoreRVers",
+  "version": "1.0.2",
+  "description": "Host-side UE4SS Lua mod that keeps the RV There Yet? session cap above 4 on game builds 1.3.20488+ / 1.4.x",
+  "author": "Zzi",
+  "mods": [
+    {
+      "name": "MoreRVers",
+      "enabled": true,
+      "script_path": "scripts/main.lua",
+      "load_priority": 9000
+    }
+  ]
+}
